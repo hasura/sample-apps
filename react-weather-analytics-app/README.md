@@ -1,10 +1,3 @@
-## Live demo
-
-[![Edit react-apollo-todo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/react-apollo-todo?fontsize=14)
-
-- [React App](https://react-apollo-todo.demo.hasura.app/)
-- [Hasura Console](https://react-apollo-todo.hasura.app/console)
-
 ## Tech stack
 
 - Frontend
@@ -19,3 +12,6 @@
 
 Follow the instructions in this blog to set up your Snowflake as a prerequisite.
 Post that, run `npm install` and `npm start` to start the analytics app.
+
+We have showcased barchart in this example, you can easily add the other types with minimal changes,
+You can read more here, https://github.com/hasura/graphql2chartjs
