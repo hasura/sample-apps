@@ -13,5 +13,5 @@
 Follow the instructions in this blog to set up your Snowflake as a prerequisite.
 Post that, run `npm install` and `npm start` to start the analytics app.
 
-We have showcased barchart in this example, you can easily add the other types with minimal changes,
+We have showcased a bar chart in this example; you can easily add the other types with minimal changes.
 You can read more here, https://github.com/hasura/graphql2chartjs
