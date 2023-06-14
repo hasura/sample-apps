@@ -1,0 +1,43 @@
+{
+  "resource_version": 106,
+  "metadata": {
+    "version": 3,
+    "sources": [
+      {
+        "name": "Snowflake",
+        "kind": "snowflake",
+        "tables": [
+          {
+            "table": [
+              "WEEKLY_NYC_TEMPRATURES"
+            ]
+          }
+        ],
+        "functions": [
+          {
+            "function": [
+              "AVG_TEMPRATURE_WEEKLY"
+            ],
+            "configuration": {
+              "custom_root_fields": {},
+              "response": {
+                "table": [
+                  "WEEKLY_NYC_TEMPRATURES"
+                ],
+                "type": "table"
+              }
+            }
+          }
+        ],
+        "configuration": {
+          "template": null,
+          "timeout": null,
+          "value": {
+            "fully_qualify_all_names": false,
+            "jdbc_url": <REPLACE_WITH_SNOWFLAKE_JDBC_URL>
+          }
+        }
+      }
+    ]
+  }
+}
