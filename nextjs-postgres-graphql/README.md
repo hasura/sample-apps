@@ -40,8 +40,8 @@ Boilerplate to get started with Nextjs, Hasura GraphQL engine as CMS and postgre
 - Clone this repo:
 
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/nextjs-postgres-graphql
+  git clone https://github.com/hasura/sample-apps
+  cd nextjs-postgres-graphql
   ```
 
 - Install npm modules:

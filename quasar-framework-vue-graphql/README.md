@@ -2,7 +2,7 @@
 
 A boilerplate to get started with Quasar Framework, Hasura GraphQL Engine as a CMS and Postgres as a database using the [quasar-cli](https://quasar-framework.org/guide/app-installation.html) and [vue-apollo](https://github.com/Akryum/vue-apollo) module.
 
-[![Edit quasar-framework-vue-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/quasar-framework-vue-graphql?fontsize=14)
+[![Edit quasar-framework-vue-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/quasar-framework-vue-graphql?fontsize=14)
 
 # Tutorial
 
@@ -34,8 +34,8 @@ A boilerplate to get started with Quasar Framework, Hasura GraphQL Engine as a C
 - Clone this repo:
 
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/quasar-framework-vue-graphql
+  git clone https://github.com/hasura/sample-apps
+  cd quasar-framework-vue-graphql
   ```
 
 - Install node modules:

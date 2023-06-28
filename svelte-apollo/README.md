@@ -2,7 +2,7 @@
 
 A sample [Svelte 3](https://svelte.dev) app to demonstrate usage of GraphQL Queries, Mutations and Subscriptions with [svelte-apollo](https://github.com/timhall/svelte-apollo), Hasura Cloud and Postgres as database. Forked from the standard svelte [template](https://github.com/sveltejs/template)
 
-[![Edit svelte-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/svelte-apollo?fontsize=14)
+[![Edit svelte-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/svelte-apollo?fontsize=14)
 
 ## Create new Hasura Cloud project
 
@@ -36,8 +36,8 @@ columns: `id`, `title`, `content`, `author_id` (foreign key to `author` table's 
 
 - Clone this repo:
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/svelte-apollo
+  git clone https://github.com/hasura/sample-apps
+  cd svelte-apollo
   ```
 
 ## Setup App

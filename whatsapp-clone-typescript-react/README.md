@@ -5,7 +5,7 @@ The react client is a forked version of [urigo/whatsapp-client-react](https://gi
 - Explore the backend using [Hasura
   Console](https://whatsapp-clone.hasura.app/console).
 
-[![Edit whatsapp-clone](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/whatsapp-clone-typescript-react/react-app?fontsize=14)
+[![Edit whatsapp-clone](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/whatsapp-clone-typescript-react/react-app?fontsize=14)
 
 ## Running the app yourself
 
@@ -19,8 +19,8 @@ The react client is a forked version of [urigo/whatsapp-client-react](https://gi
 
 - Clone this repo:
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/whatsapp-clone-typescript-react
+  git clone https://github.com/hasura/sample-apps
+  cd whatsapp-clone-typescript-react
   ```
 - [Install Hasura CLI](https://hasura.io/docs/latest/graphql/core/hasura-cli/install-hasura-cli.html)
 - Apply the migrations:

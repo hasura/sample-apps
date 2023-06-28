@@ -2,7 +2,7 @@
 
 > Boilerplate to get started with Nuxt.js, Hasura GraphQL engine as CMS and postgres as database using the [create-nuxt-app](https://nuxtjs.org/guide/installation) and [@nuxtjs/apollo](https://github.com/nuxt-community/apollo-module) module.
 
-[![Edit nuxtjs-postgres-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/nuxtjs-postgres-graphql?fontsize=14)
+[![Edit nuxtjs-postgres-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/nuxtjs-postgres-graphql?fontsize=14)
 
 # Tutorial
 
@@ -33,8 +33,8 @@ columns: `id`, `title`, `content`, `author_id` (foreign key to `author` table's 
 
 - Clone this repo:
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/nuxtjs-postgres-graphql
+  git clone https://github.com/hasura/sample-apps
+  cd nuxtjs-postgres-graphql
   ```
 
 - Install npm modules:

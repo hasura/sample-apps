@@ -47,7 +47,7 @@ function Chat(props) {
           </a>
           &nbsp; | &nbsp;
           <a
-            href="https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/realtime-chat"
+            href="https://github.com/hasura/sample-apps/tree/main/realtime-chat"
             target="_blank"
             rel="noopener noreferrer"
           >

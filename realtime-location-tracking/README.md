@@ -3,7 +3,7 @@
 A demo application to showcase real-time capabilities of [Hasura GraphQL
 Engine](https://github.com/hasura/graphql-engine).
 
-[![Edit realtime-location-tracking](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/realtime-location-tracking?fontsize=14)
+[![Edit realtime-location-tracking](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/realtime-location-tracking?fontsize=14)
 
 The Realtime location application is built using React and is powered by Hasura
 GraphQL Engine over Postgres. It has an interface for users to track location of a vehicle using Hasura live queries, in real-time.
@@ -24,8 +24,8 @@ hosted on GitHub pages and the Postgres+GraphQL Engine is running on Postgres.
 - Get the Hasura app URL (say `realtime-backend2.hasura.app`)
 - Clone this repo:
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/realtime-location-tracking
+  git clone https://github.com/hasura/sample-apps
+  cd realtime-location-tracking
   ```
 - [Install Hasura CLI](https://hasura.io/docs/latest/graphql/core/hasura-cli/install-hasura-cli.html)
 - Goto `hasura/` and edit `config.yaml`:
