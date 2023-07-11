@@ -39,7 +39,7 @@ function Chat(props) {
           />
           &nbsp; | &nbsp;
           <a
-            href="https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/streaming-subscriptions-chat"
+            href="https://github.com/hasura/sample-apps/tree/main/streaming-subscriptions-chat"
             target="_blank"
             rel="noopener noreferrer"
           >

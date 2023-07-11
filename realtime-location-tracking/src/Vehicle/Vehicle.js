@@ -142,7 +142,7 @@ function Vehicle(props) {
               Backend
             </a>
             &nbsp; | &nbsp;
-            <a href="https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/realtime-location-tracking" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/hasura/sample-apps/tree/main/realtime-location-tracking" target="_blank" rel="noopener noreferrer">
               Source
             </a>
             <div className="footer-small-text">

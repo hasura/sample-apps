@@ -35,7 +35,7 @@ export const Footer = () => (
       </a>
       &nbsp; | &nbsp;
       <a
-        href="https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/realtime-poll"
+        href="https://github.com/hasura/sample-apps/tree/main/realtime-poll"
         target="_blank"
         rel="noopener noreferrer"
       >

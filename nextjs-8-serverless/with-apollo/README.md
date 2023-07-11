@@ -27,8 +27,8 @@
 
 - Clone this repo:
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/nextjs-8-serverless/with-apollo
+  git clone https://github.com/hasura/sample-apps
+  cd nextjs-8-serverless/with-apollo
   ```
 
 - Install npm modules:

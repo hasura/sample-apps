@@ -2,7 +2,7 @@
 
 A sample app to get started with [react-static](https://github.com/nozzle/react-static) site generator, Hasura GraphQL engine and Postgres as database.
 
-[![Edit react-static](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/react-static-graphql?fontsize=14)
+[![Edit react-static](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/react-static-graphql?fontsize=14)
 
 # Tutorial
 
@@ -37,8 +37,8 @@ columns: `id`, `title`, `content`, `author_id` (foreign key to `author` table's 
 
 - Clone this repo:
   ```bash
-  git clone https://github.com/hasura/graphql-engine
-  cd graphql-engine/community/sample-apps/react-static-graphql
+  git clone https://github.com/hasura/sample-apps
+  cd react-static-graphql
   ```
 
 - Install npm modules:

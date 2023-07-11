@@ -2,7 +2,7 @@
 
 Boilerplate to get started with Gatsby, Hasura GraphQL engine as CMS and postgres as database using the awesome plugin [gatsby-source-graphql](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-source-graphql).
 
-[![Edit gatsby-postgres-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/gatsby-postgres-graphql?fontsize=14)
+[![Edit gatsby-postgres-graphql](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/gatsby-postgres-graphql?fontsize=14)
 
 ![Gatsby Postgres GraphQL](./assets/gatsby-postgres-graphql.png)
 
@@ -17,8 +17,8 @@ Boilerplate to get started with Gatsby, Hasura GraphQL engine as CMS and postgre
 - Clone this repo:
 
 ```bash
-git clone https://github.com/hasura/graphql-engine
-cd graphql-engine/community/sample-apps/gatsby-postgres-graphql
+git clone https://github.com/hasura/sample-apps
+cd gatsby-postgres-graphql
 ```
 
 - Create `author` table:

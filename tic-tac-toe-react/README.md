@@ -1,6 +1,6 @@
 # Multiplayer Tic Tac Toe
 
-[![Edit tic-tac-toe](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/graphql-engine/tree/master/community/sample-apps/tic-tac-toe-react/client?fontsize=14)
+[![Edit tic-tac-toe](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/hasura/sample-apps/tree/main/tic-tac-toe-react/client?fontsize=14)
 
 This is a multiplayer tic tac toe app that uses the following components:
 
