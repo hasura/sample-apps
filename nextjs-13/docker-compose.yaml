@@ -21,7 +21,7 @@ services:
       - "postgres"
     restart: always
     environment:
-      NEXTJS_SERVER_URL: http://nextjs:3000
+      NEXTJS_SERVER_URL: http://host.docker.internal:3000
       HASURA_GRAPHQL_DATABASE_URL: postgres://postgres:postgrespassword@postgres:5432/postgres
       PG_DATABASE_URL: postgres://postgres:postgrespassword@postgres:5432/postgres
       ## enable the console served by server
